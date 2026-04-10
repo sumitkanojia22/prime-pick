@@ -1,6 +1,6 @@
-# Grab-it 🛒
+# Prime-pick 🛒
 
-Grab-it is a modern e-commerce web application built with **React + Vite + Tailwind CSS**.
+Prime-pick is a modern e-commerce web application built with **React + Vite + Tailwind CSS**.
 
 ## ✨ Features
 
